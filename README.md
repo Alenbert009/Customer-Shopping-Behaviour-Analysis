@@ -6,7 +6,7 @@
 This end-to-end data analytics project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The primary goal is to uncover actionable insights into spending patterns, customer segments, product preferences, and subscription behaviors to guide strategic business decisions.
 
 ## 🛠️ Tech Stack
-* **Python:** Exploratory Data Analysis (EDA), data cleaning, and feature engineering using the `pandas` library.
+* **Python:** Exploratory Data Analysis (EDA), data cleaning, and feature engineering using the `pandas` library and connecting to Postgre SQL.
 * **PostgreSQL:** Advanced structured data analysis and querying of business transactions.
 * **Power BI:** Interactive data visualization and dashboard creation.
 
